@@ -20,12 +20,15 @@ This solution aims to improve passenger experience, reduce confusion, and ensure
 
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/e4d9d63f-8fa8-4ee8-be40-1f67ee430c57)
+![image](https://github.com/user-attachments/assets/40974342-7df9-4b02-91fc-1fe90946f8fc)
+
+
 
 
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/c37ccc7f-1f1f-4ca6-be14-16f224f4fec0)
+![Uploading image.png…]()
+
 
 
 
