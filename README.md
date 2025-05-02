@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 18.05.2025
+## Register Number: 212222040130
+## Name: Ramya S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -14,9 +14,13 @@ Ministry of Railway
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/e4d9d63f-8fa8-4ee8-be40-1f67ee430c57)
+
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/c37ccc7f-1f1f-4ca6-be14-16f224f4fec0)
+
 
 
 ## Technology Stack
