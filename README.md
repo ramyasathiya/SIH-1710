@@ -11,51 +11,12 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-The core idea behind SIH 1710 is to develop a smart, real-time, and user-friendly navigation system that helps passengers seamlessly find their way within railway stations. The goal is to transform the passenger experience by making railway stations easier to navigate, especially for:
+The idea of SIH 1710 is to develop a smart, real-time navigation system for railway stations.
+It helps passengers easily locate facilities like platforms, ticket counters, restrooms, and food courts.
+The system will be accessible through mobile apps and digital kiosks with interactive maps.
+It will support voice guidance, multi-language options, and features for people with disabilities.
+This solution aims to improve passenger experience, reduce confusion, and ensure smooth movement within stations.
 
-New or occasional travelers
-
-People with disabilities
-
-Elderly passengers
-
-Non-native language speakers
-
-Key Aspects of the Idea
-Digital Indoor Navigation:
-
-Create detailed interactive maps of stations (platforms, exits, amenities).
-
-Provide step-by-step navigation to desired locations (e.g., from entrance to platform 6).
-
-Multi-Platform Access:
-
-Mobile app for Android/iOS.
-
-Digital kiosks at stations with touchscreen interfaces.
-
-Web-based interface for pre-trip planning.
-
-Accessibility Focus:
-
-Voice-guided directions for visually impaired.
-
-Text resizing, color contrast, and multiple language options.
-
-Real-Time Updates:
-
-Dynamic information on facility status (e.g., “toilet under maintenance”).
-
-Alert passengers to changes in train platform, crowd congestion, or emergencies.
-
-Integration with Indian Railways Systems:
-
-Sync with IRCTC/train info APIs.
-
-Show train status, platform numbers, and time left to departure directly in the app or kiosk.
-
-End Goal:
-To build an intelligent navigation system that functions like Google Maps for railway stations — enhancing passenger satisfaction, reducing stress, and supporting inclusive travel for everyone.
 
 
 ## Proposed Solution / Architecture Diagram
