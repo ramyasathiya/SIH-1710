@@ -20,6 +20,19 @@ This solution aims to improve passenger experience, reduce confusion, and ensure
 
 
 ## Proposed Solution / Architecture Diagram
+
+Real-Time Tracking: Use IoT sensors and beacons to monitor passenger flow and facility status.
+
+Multi-Platform Access: Deliver navigation via mobile apps, web portals, and digital kiosks with interactive maps.
+
+AI Optimization: Central server processes data for dynamic routing and crowd prediction.
+
+Inclusivity: Voice guidance, multi-language support, and accessibility features for all passengers.
+
+Admin Control: Station staff and administrators manage alerts, updates, and analytics for efficient operations.
+
+Goal: Reduce confusion, improve safety, and enhance passenger experience in railway stations. 🚉
+
 ![image](https://github.com/user-attachments/assets/40974342-7df9-4b02-91fc-1fe90946f8fc)
 
 
@@ -27,6 +40,13 @@ This solution aims to improve passenger experience, reduce confusion, and ensure
 
 
 ## Use Cases
+The use case diagram represents the interaction between a passenger and the railway station navigation system.
+The main actor is the passenger who accesses the system via mobile apps or digital kiosks.
+They can view an interactive station map to locate facilities like platforms and restrooms.
+Passengers can select their destination within the station premises.
+The system provides voice-guided directions, supporting accessibility for all users.
+This diagram helps visualize the core features aimed at improving passenger navigation and experience.
+
 ![image](https://github.com/user-attachments/assets/7c2274d6-c4c5-496d-97ac-9147a12c4b3a)
 
 
